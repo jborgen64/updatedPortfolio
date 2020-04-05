@@ -1,0 +1,13 @@
+body {
+    background-image: url("repeat.jpg");
+}
+
+.astro {
+    height: 60px;
+    width: auto;
+}
+
+.mainText {
+    opacity: 0.9;
+}
+
