@@ -7,7 +7,22 @@ body {
     width: auto;
 }
 
-.mainText {
-    opacity: 0.9;
+.about {
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-top: 20px;
 }
 
+.bio {
+    font-size: 20px;
+}
+
+.bioHolder {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.contact {
+    display: none;
+}
