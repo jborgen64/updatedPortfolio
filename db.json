@@ -1,0 +1,30 @@
+[
+   {
+        "image": "images/books.png",
+        "deployed": "https://jborgen64.github.io/Project-1/"
+    },
+    {
+        "image": "images/burgerapp.png",
+        "deployed": "https://jborgen64.github.io/Project-1/"
+    },
+    {
+        "image": "images/comic.png",
+        "deployed": "https://jborgen64.github.io/Project-1/"
+    },
+    {
+        "image": "images/notetaker.png",
+        "deployed": "https://jborgen64.github.io/Project-1/"
+    },
+    {
+        "image": "images/quiz.png",
+        "deployed": "https://jborgen64.github.io/Project-1/"
+    },
+    {
+        "image": "images/scheduler.png",
+        "deployed": "https://jborgen64.github.io/Project-1/"
+    },
+    {
+        "image": "images/weather.png",
+        "deployed": "https://jborgen64.github.io/Project-1/"
+    }
+]
